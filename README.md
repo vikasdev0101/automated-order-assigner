@@ -6,7 +6,7 @@
 
 ## Overview
 
-```The **Order Assignment System** is designed to automate the process of assigning pending orders to available delivery boys based on their capacity and availability. It ensures efficient management of delivery operations by balancing workloads and keeping track of order statuses.
+The **Order Assignment System** is designed to automate the process of assigning pending orders to available delivery boys based on their capacity and availability. It ensures efficient management of delivery operations by balancing workloads and keeping track of order statuses.
 
 ---
 
